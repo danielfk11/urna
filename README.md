@@ -1,2 +1,2 @@
 # urna
-Sistema de votação simples feio em python
+Sistema de votação simples feito em python
